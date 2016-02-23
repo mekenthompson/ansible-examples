@@ -1,7 +1,7 @@
 [webservers]
-192.168.1.28
+webserver.local
 
 [dbservers]
-192.168.1.28
+dbserver.local
 
 
